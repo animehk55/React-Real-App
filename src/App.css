@@ -1,4 +1,7 @@
 /* box  */
+.center{
+  text-align: 'center';
+}
 .box {
   display: inline-block;
   margin: 10px;
@@ -7,4 +10,5 @@
   width: '100%';
   padding: 20px;
   margin-left: 0px;
+  text-align: 'center';
 }
